@@ -20,12 +20,12 @@ export default function Meta() {
             <meta name="theme-color" content="#E95420" />
 
             /* Search Engine */
-            <meta name="image" content="images/logos/fevicon.png" />
+            <meta name="image" content="images/logos/favicon.ico" />
             /* Schema.org for Google */
             <meta itemProp="name" content="Mizanur Portfolio - Developer Mode" />
             <meta itemProp="description"
                 content="Mizanur's Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
-            <meta itemProp="image" content="images/logos/fevicon.png" />
+            <meta itemProp="image" content="images/logos/favicon.ico" />
             /* Twitter */
             <meta name="twitter:card" content="summary" />
             <meta name="twitter:title" content="Mizanur Portfolio - Developer Mode" />
@@ -38,14 +38,14 @@ export default function Meta() {
             <meta name="og:title" content="Mizanur Portfolio - Developer Mode" />
             <meta name="og:description"
                 content="Mizanur's Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
-            <meta name="og:image" content="images/logos/logo_1200.png" />
+            <meta name="og:image" content="images/logos/logo_1024.png" />
             <meta name="og:url" content="https://mizanur.in/" />
             <meta name="og:site_name" content="Mizanur Personal Portfolio Dev mode" />
             <meta name="og:locale" content="en_IN" />
             <meta name="og:type" content="website" />
 
-            <link rel="icon" href="images/logos/fevicon.svg" />
-            <link rel="apple-touch-icon" href="images/logos/logo.png" />
+            <link rel="icon" href="images/logos/favicon.ico" />
+            <link rel="apple-touch-icon" href="images/logos/favicon.ico" />
             <link rel="preload" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" as="style" />
             <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet"></link>
         </Head>
